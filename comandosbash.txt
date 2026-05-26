@@ -1,9 +1,21 @@
 pwd                               # Mostrar pasta atual
 ls                                # Listar arquivos da pasta
-ls -la                            # Listar com detalhes                                             (inclusive ocultos)
+ls -la                            # Listar com detalhes (inclusive ocultos)
 ls -R                             # Listar recursivo (todas as subpastas)
 tree                              # Ver estrutura em árvore (se instalado)
 cd <pasta>                        # Entrar em uma pasta
 cd ..                             # Voltar uma pasta
 cd /                              # Ir para raiz
 cd ~                              # Ir para home
+cat (nome do arquivo)             # Mostra o conteudo interno do arquivo
+git init.                         # Torna a pasta possivel de repositorio de GIT, com possibilidade de versionar os arquivos dentro dela
+git status                        # mostra como esta o diretorio
+git add                           # escolhe oque vc quer que va para o commit
+git commit -m 'mensagem'          #adiona o commit 
+# exemplo do output:  
+$ git commit -m 'primeiros comandos bash'    # nome do commit
+[main (root-commit) 74715df] primeiros comandos bash # o numero 74715df é o 'cpf' do commit
+ 1 file changed, 9 insertions(+)  # aqui diz que 1 arquivo mudou e que ele contem 9 linhas
+ create mode 100644 comandosbash.txt
+
+git config --global user.email 'pires787@gmail.com'  # voce vai 'assinar' cada commit
