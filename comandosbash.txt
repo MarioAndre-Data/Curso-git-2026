@@ -1,0 +1,9 @@
+pwd                               # Mostrar pasta atual
+ls                                # Listar arquivos da pasta
+ls -la                            # Listar com detalhes                                             (inclusive ocultos)
+ls -R                             # Listar recursivo (todas as subpastas)
+tree                              # Ver estrutura em árvore (se instalado)
+cd <pasta>                        # Entrar em uma pasta
+cd ..                             # Voltar uma pasta
+cd /                              # Ir para raiz
+cd ~                              # Ir para home
