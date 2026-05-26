@@ -19,3 +19,4 @@ $ git commit -m 'primeiros comandos bash'    # nome do commit
  create mode 100644 comandosbash.txt
 
 git config --global user.email 'pires787@gmail.com'  # voce vai 'assinar' cada commit
+git log      # mostra o historico dos commits
