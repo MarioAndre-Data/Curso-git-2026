@@ -3,3 +3,7 @@ esse arquivo contem comandos secundários
 
 # comandos mais genéricos
 - comandos estranho
+
+
+#mais comandos
+opa
