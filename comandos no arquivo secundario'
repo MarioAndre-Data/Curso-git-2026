@@ -1,0 +1,29 @@
+[33mcommit f6dcb9e1021aab725bc479f3038fac23a41df983[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msecundaria[m[33m, [m[1;32mmain[m[33m)[m
+Author: dex <pires787@gmail.com>
+Date:   Wed May 27 11:20:20 2026 -0300
+
+    novos comandos secundarios
+
+[33mcommit 049c6e9a17c41cffd4f4b73917d04993e4dac0c7[m
+Author: dex <pires787@gmail.com>
+Date:   Wed May 27 11:07:41 2026 -0300
+
+    fluxo de trabalho
+
+[33mcommit b83ad037b9c8b5c1e3555e99b3d2c5920f5e76f5[m
+Author: unknown <pires787@gmail.com>
+Date:   Tue May 26 19:15:00 2026 -0300
+
+    novos comandos em git e bash
+
+[33mcommit 5ce7e20cf9a092727992f457927d9744cb26b19e[m
+Author: unknown <pires787@gmail.com>
+Date:   Tue May 26 19:09:52 2026 -0300
+
+    novos comandos bash e primeiros comandos git
+
+[33mcommit 74715df31b1ee705b819d6b2f7e37325a948a966[m
+Author: unknown <pires787@gmail.com>
+Date:   Tue May 26 18:58:44 2026 -0300
+
+    primeiros comandos bash
